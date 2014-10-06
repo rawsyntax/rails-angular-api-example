@@ -2,6 +2,8 @@
 //= require jquery_ujs
 //= require angular
 //= require angular-rails-templates
+//= require lodash
+//= require restangular
 
 //= require angular-app/app
 //= require_tree ./angular-app/templates
